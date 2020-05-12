@@ -138,3 +138,8 @@ nohup.out
 
 # VSCode
 .vscode/
+
+# Config
+config.py
+config.ini
+config.yaml
